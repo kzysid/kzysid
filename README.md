@@ -14,6 +14,9 @@
 - 📫 How to reach me **urstrulysaida@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+- <h3 align="center"></h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611ba194bfecd921d31b5a2296fa12e24e108665b54&rid=giphy.gif&ct=g">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
